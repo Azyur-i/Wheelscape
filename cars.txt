@@ -1,0 +1,3 @@
+TY1242|Honda|Civic|Sedan|White|200km/h|4|P. 1000.00|Available
+TI3074|Toyota|Fortuner|SUV|Black|150km/h|7|P. 3000.00|Available
+TR4673|Toyota|Hiace|Van|White|100km/h|11|P. 5000.00|Available
